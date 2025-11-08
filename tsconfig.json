@@ -31,3 +31,5 @@
 		"noEmit": true
 	}
 }
+disable ELint
+
